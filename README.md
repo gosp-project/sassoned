@@ -1,3 +1,5 @@
+
+
 # gosp.css
 Garlic, onion, salt and pepper...
 
@@ -556,6 +558,6 @@ This classes will be able to change property-value classes in each display resol
 * Added flex push and pull
 * Added list-inline and list-block helpers and responsive helpers
 * Changed size readme prefix to media-query
-* node_module bug
+* node_modules bug
 * Restores `.list-reset` class
 * Added functions import to media
